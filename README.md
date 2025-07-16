@@ -12,5 +12,4 @@ A simple Python game where the player tries to guess a randomly generated number
 
 - Python 3.x
 - `random` module
-- 
- 
+  
